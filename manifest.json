@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "io.github.GustavoDGoat.omawall",
+  "name": "Omawall",
+  "version": "1.0.0",
+  "author": "GustavoDGoat",
+  "license": "MIT",
+  "description": "Lightweight automatic wallpaper rotation for Omarchy Quattro.",
+  "kinds": [
+    "bar-widget"
+  ],
+  "entryPoints": {
+    "barWidget": "BarWidget.qml"
+  }
+}
